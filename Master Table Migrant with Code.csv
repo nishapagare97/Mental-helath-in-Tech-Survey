@@ -1,0 +1,1351 @@
+Res. No,Age,Gender,Marital status,Education,Income,Covid- infected or not,CAS1,CAS2,CAS3,CAS4,CAS5
+1,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,rare,rare,several days,several days,several days
+2,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,several days
+3,31-40 Years old,male,single,school completed,Up to Rs.15000 ,negative,More than a week,More than a week,no,no,More than a week
+4,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,no,rare,no
+5,31-40 Years old,male,single,no,Up to Rs.15000 ,negative,rare,several days,rare,rare,several days
+6,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,rare,several days,rare,rare,several days
+7,Up to 30 Years old,female,single,school completed,Up to Rs.15000 ,negative,no,rare,no,rare,no
+8,Up to 30 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,positive,no,no,no,no,no
+9,31-40 Years old,male,single,no,Up to Rs.15000 ,negative,no,rare,rare,rare,rare
+10,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,no,rare,no,no
+11,Up to 30 Years old,female,partnered,school completed,More than Rs. 20000,positive,rare,rare,rare,More than a week,rare
+12,31-40 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,rare,rare,no
+13,Up to 30 Years old,female,partnered,school dropout,More than Rs. 20000,negative,no,no,no,no,no
+14,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,rare,rare,rare,no
+15,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+16,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,no,rare,rare,no
+17,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,More than a week,rare,More than a week,rare
+18,Up to 30 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,rare
+19,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,rare,rare,rare,rare
+20,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,rare,rare,rare,no
+21,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,no,rare,rare,rare,rare
+22,31-40 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+23,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,no,no,no
+24,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,rare,rare,no,no,no
+25,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,several days,no,More than a week,no
+26,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,no
+27,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,rare,no,no,no
+28,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,rare,several days,rare,no
+29,31-40 Years old,male,single,no,Up to Rs.15000 ,positive,several days,no,several days,several days,rare
+30,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+31,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,positive,no,no,no,no,no
+32,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,no,no,no,no,no
+33,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,no,several days,no,More than a week,no
+34,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,More than a week,several days,rare
+35,Up to 30 Years old,male,partnered,school dropout,More than Rs. 20000,negative,rare,rare,several days,rare,rare
+36,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,no,rare,several days,rare
+37,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+38,31-40 Years old,female,single,school dropout,Up to Rs.15000 ,negative,rare,rare,several days,rare,several days
+39,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,More than a week,More than a week,More than a week,several days
+40,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,rare,no
+41,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,positive,no,rare,rare,rare,several days
+42,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,no,rare,rare,rare,several days
+43,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,rare,no,rare,no
+44,41 and Above ,male,single,no,Up to Rs.15000 ,negative,no,rare,no,rare,no
+45,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,no,rare,rare,rare,no
+46,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,no,rare,no
+47,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,More than a week,More than a week,More than a week,several days
+48,Up to 30 Years old,female,single,school completed,Rs. 15001-Rs. 20000,negative,several days,More than a week,More than a week,several days,rare
+49,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,rare,several days,rare,several days
+50,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,several days,rare,several days
+51,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,positive,no,rare,rare,rare,no
+52,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,several days,More than a week,More than a week,rare
+53,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,positive,rare,several days,More than a week,More than a week,rare
+54,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,rare,rare,no,several days
+55,31-40 Years old,male,single,no,Up to Rs.15000 ,positive,no,no,rare,several days,rare
+56,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,no,no,no
+57,41 and Above ,male,partnered,no,More than Rs. 20000,negative,no,rare,rare,rare,rare
+58,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,rare,rare,no
+59,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,rare,rare,no,several days
+60,31-40 Years old,female,single,school dropout,Up to Rs.15000 ,negative,several days,no,rare,rare,no
+61,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+62,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,rare,several days,rare
+63,31-40 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,no,no,rare,no,several days
+64,Up to 30 Years old,female,single,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,no,several days
+65,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,rare,rare,several days,rare
+66,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,several days
+67,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,no,several days
+68,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,no,rare,no
+69,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,several days,no,More than a week
+70,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,several days,rare,rare,several days
+71,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,several days,rare,rare,several days
+72,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,several days,More than a week,More than a week,rare,no
+73,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,no,no,rare,no,several days
+74,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+75,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,rare,rare,no,rare
+76,Up to 30 Years old,male,partnered,no,More than Rs. 20000,negative,no,no,no,rare,no
+77,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,rare,no
+78,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,several days,More than a week
+79,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,rare,no,several days
+80,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,several days,More than a week
+81,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,rare,rare,no
+82,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,rare,no,several days
+83,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,rare,rare,no
+84,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,positive,no,rare,several days,rare,no
+85,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,no,several days,no,rare
+86,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,no,no,no,rare,no
+87,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,rare,no
+88,41 and Above ,female,single,school dropout,Up to Rs.15000 ,positive,rare,no,no,rare,no
+89,41 and Above ,male,single,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,More than a week,rare,no
+90,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,rare,no,More than a week,rare,no
+91,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+92,31-40 Years old,male,partnered,no,More than Rs. 20000,negative,rare,no,rare,rare,no
+93,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+94,41 and Above ,male,partnered,school dropout,More than Rs. 20000,negative,no,no,no,rare,no
+95,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,several days,several days,rare,several days
+96,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+97,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,several days
+98,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,positive,no,rare,several days,no,More than a week
+99,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,no,rare
+100,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,several days,rare,rare,rare
+101,31-40 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,no,no
+102,41 and Above ,female,single,school dropout,Up to Rs.15000 ,negative,no,several days,rare,More than a week,rare
+103,41 and Above ,male,single,school completed,Up to Rs.15000 ,negative,no,several days,rare,no,rare
+104,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,several days,no,no,no,rare
+105,31-40 Years old,male,single,no,Up to Rs.15000 ,negative,several days,rare,no,More than a week,no
+106,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,rare,several days,rare,rare
+107,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,no,no,rare
+108,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,several days,several days,rare,no
+109,31-40 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,positive,rare,no,several days,no,rare
+110,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,rare,no,rare
+111,31-40 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,several days,rare,no
+112,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,rare,no,More than a week,no
+113,31-40 Years old,female,single,school dropout,Up to Rs.15000 ,negative,several days,rare,no,More than a week,no
+114,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,More than a week,no,several days
+115,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,no,no,no
+116,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,several days
+117,41 and Above ,female,single,no,Up to Rs.15000 ,negative,no,several days,rare,rare,rare
+118,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,More than a week,no,several days
+119,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,several days
+120,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,several days,no,no,More than a week
+121,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,several days,rare
+122,31-40 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,rare,no,several days,rare
+123,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,positive,no,rare,several days,no,several days
+124,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,no
+125,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,More than a week,no,several days
+126,41 and Above ,male,single,no,Up to Rs.15000 ,negative,several days,More than a week,rare,rare,More than a week
+127,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,rare
+128,31-40 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+129,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,several days
+130,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,no
+131,31-40 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,no,no,rare,rare
+132,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,no,several days
+133,31-40 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,no,More than a week,no,rare,rare
+134,41 and Above ,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,no,several days
+135,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,no,More than a week,no,rare,rare
+136,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,More than a week,several days,several days,More than a week
+137,31-40 Years old,male,partnered,no,More than Rs. 20000,negative,rare,rare,no,several days,no
+138,Up to 30 Years old,male,single,school completed,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,rare
+139,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,rare,several days,several days,More than a week
+140,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,several days,rare,several days,More than a week
+141,41 and Above ,male,single,school dropout,Up to Rs.15000 ,positive,rare,several days,rare,rare,rare
+142,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,several days,rare,rare,rare
+143,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,rare,several days,rare,rare
+144,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,rare
+145,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,More than a week,several days,several days,rare
+146,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,rare,rare,rare
+147,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,rare,rare
+148,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,rare
+149,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,rare
+150,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+151,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,rare
+152,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,several days,several days,More than a week
+153,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,rare,several days,several days,More than a week
+154,41 and Above ,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,several days,rare,several days,More than a week
+155,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,several days,More than a week,rare
+156,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+157,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+158,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,no,no,several days
+159,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,no,More than a week,several days
+160,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,rare,no,several days
+161,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+162,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,More than a week,More than a week
+163,Up to 30 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,rare,several days,rare,several days,no
+164,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,rare,More than a week,rare,rare
+165,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,several days,rare,rare
+166,Up to 30 Years old,male,partnered,no,More than Rs. 20000,negative,no,rare,several days,rare,rare
+167,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,More than a week,More than a week
+168,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,rare,no
+169,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,several days,no,More than a week,several days
+170,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,no
+171,41 and Above ,male,single,no,Up to Rs.15000 ,negative,rare,rare,More than a week,rare,rare
+172,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,More than a week,several days,several days,rare
+173,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,several days,no,rare
+174,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+175,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,More than a week,rare
+176,31-40 Years old,male,single,school completed,Up to Rs.15000 ,negative,More than a week,More than a week,More than a week,several days,More than a week
+177,Up to 30 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,rare,rare
+178,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,More than a week,rare,rare,rare
+179,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,rare,rare
+180,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,several days,More than a week
+181,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,More than a week,rare,rare,rare
+182,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,rare,rare,several days,rare
+183,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,rare,rare,several days,rare
+184,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,rare
+185,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+186,41 and Above ,female,single,no,Rs. 15001-Rs. 20000,negative,several days,no,no,no,rare
+187,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,More than a week,several days,several days
+188,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,rare,several days,several days
+189,31-40 Years old,male,single,no,Up to Rs.15000 ,positive,More than a week,rare,More than a week,rare,rare
+190,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,rare,several days,several days
+191,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,More than a week,rare,More than a week,rare,rare
+192,31-40 Years old,female,single,no,Up to Rs.15000 ,positive,More than a week,several days,More than a week,several days,several days
+193,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+194,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,no
+195,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,rare,several days,rare
+196,31-40 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,negative,no,no,More than a week,More than a week,rare
+197,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,rare,no
+198,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,several days,More than a week,rare,no,several days
+199,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,rare,several days,More than a week,rare
+200,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,More than a week,rare,no,several days
+201,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,rare,no
+202,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,no,rare,rare
+203,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,More than a week,More than a week,rare
+204,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,More than a week,More than a week
+205,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+206,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,More than a week,rare,rare,rare
+207,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,More than a week,More than a week
+208,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,no,no,rare
+209,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,several days,More than a week,rare
+210,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,More than a week,several days,More than a week,rare
+211,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+212,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,several days,no
+213,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,several days,rare,More than a week,rare
+214,Up to 30 Years old,female,single,no,Up to Rs.15000 ,positive,no,no,rare,More than a week,several days
+215,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,More than a week,More than a week,several days,More than a week
+216,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,rare,rare
+217,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,More than a week,More than a week,More than a week,More than a week
+218,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,no,rare,no
+219,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,More than a week,More than a week,More than a week,More than a week
+220,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,several days,rare
+221,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,several days,rare,rare
+222,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,several days,no,several days
+223,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,More than a week,More than a week,More than a week,More than a week
+224,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,no,no
+225,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,no,no
+226,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,More than a week,several days,several days,several days
+227,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,More than a week,More than a week
+228,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+229,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,no,rare,rare,several days
+230,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,several days,More than a week
+231,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,several days,More than a week
+232,31-40 Years old,male,single,no,Up to Rs.15000 ,negative,several days,rare,several days,rare,rare
+233,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,several days,rare,several days,More than a week
+234,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,More than a week,rare,More than a week,More than a week
+235,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,no,rare,rare,several days
+236,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,no,no,several days,no
+237,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,several days,More than a week,More than a week,More than a week,several days
+238,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,no,rare
+239,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,rare,several days,no,rare
+240,41 and Above ,female,single,no,Up to Rs.15000 ,negative,several days,More than a week,More than a week,More than a week,several days
+241,41 and Above ,male,single,school dropout,Up to Rs.15000 ,negative,More than a week,More than a week,several days,More than a week,several days
+242,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,More than a week,rare,rare,rare
+243,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,several days,More than a week,several days
+244,41 and Above ,male,single,school dropout,Up to Rs.15000 ,negative,several days,rare,rare,rare,several days
+245,31-40 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,several days,More than a week,several days
+246,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,several days,several days,several days,several days,several days
+247,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,no,no,no,no,no
+248,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,rare,no,rare,rare
+249,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,several days,rare,More than a week,rare
+250,41 and Above ,female,single,school dropout,Up to Rs.15000 ,negative,rare,no,no,no,rare
+251,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,no,no,no,no
+252,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,rare,no,no
+253,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,no,several days
+254,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,rare,More than a week
+255,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,no,no,no,rare,several days
+256,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,no,More than a week
+257,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,rare,no,rare
+258,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,More than a week
+259,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,several days
+260,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,no,rare
+261,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,no,no,no,rare
+262,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,several days
+263,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,rare,no,rare
+264,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,no,no,no,rare
+265,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,More than a week
+266,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,no,several days
+267,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,no,no,no,no,More than a week
+268,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,positive,no,no,no,no,More than a week
+269,Up to 30 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,positive,no,no,rare,no,More than a week
+270,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,More than a week
+271,41 and Above ,female,single,school dropout,Up to Rs.15000 ,positive,no,no,no,several days,More than a week
+272,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,no,no,no,More than a week
+273,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,rare,rare,rare,More than a week
+274,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,no,no,no,More than a week
+275,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,no,More than a week
+276,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,several days
+277,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,no,rare
+278,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,rare,no,no
+279,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,no,rare,rare
+280,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,rare,no,rare,several days
+281,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,positive,no,no,rare,no,no
+282,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,no,no,no,no
+283,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,no,several days
+284,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,no,rare,More than a week
+285,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,More than a week,several days,rare,several days,More than a week
+286,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,rare,several days,rare,rare
+287,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,several days,More than a week
+288,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,More than a week,More than a week,rare,More than a week,More than a week
+289,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,rare,no,rare,rare,several days
+290,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,rare,no,no,several days,no
+291,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,several days,More than a week,More than a week,More than a week,several days
+292,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,rare,several days,no,rare
+293,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,rare,several days,no,rare
+294,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,More than a week,More than a week,More than a week,several days
+295,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,positive,More than a week,More than a week,several days,More than a week,several days
+296,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,rare,More than a week,rare,rare,rare
+297,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,several days,More than a week,several days
+298,41 and Above ,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,several days,rare,rare,rare,several days
+299,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,several days,More than a week,several days
+300,Up to 30 Years old,female,single,school dropout,Rs. 15001-Rs. 20000,negative,several days,several days,several days,several days,several days
+301,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+302,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,no,rare,rare
+303,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,several days,rare,More than a week,rare
+304,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,no,rare
+305,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,no,no,no,no
+306,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,several days,no,rare,no,no
+307,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,no,several days
+308,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,no,rare,More than a week
+309,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,no,no,no,rare,several days
+310,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,no,More than a week
+311,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,rare,no,rare
+312,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,More than a week
+313,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,no,no,several days
+314,41 and Above ,male,single,school dropout,Up to Rs.15000 ,negative,rare,no,no,no,rare
+315,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,rare
+316,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,no,no,no,several days
+317,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,rare,no,rare
+318,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,rare
+319,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,More than a week
+320,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,no,no,no,several days
+321,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,More than a week
+322,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,More than a week
+323,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,rare,no,More than a week
+324,Up to 30 Years old,female,single,school completed,Up to Rs.15000 ,positive,no,no,no,no,More than a week
+325,Up to 30 Years old,female,single,no,Up to Rs.15000 ,positive,no,no,no,several days,More than a week
+326,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,no,no,no,no,More than a week
+327,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,More than a week
+328,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,More than a week,no,no,no,More than a week
+329,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,no,More than a week
+330,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,several days
+331,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,no,rare
+332,Up to 30 Years old,female,single,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,rare,no,no
+333,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,rare,no,rare,rare
+334,41 and Above ,male,single,school dropout,Up to Rs.15000 ,negative,no,rare,no,rare,several days
+335,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,no,rare,no,no
+336,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,More than a week,no,no,no,no
+337,Up to 30 Years old,male,partnered,no,More than Rs. 20000,negative,no,no,rare,no,several days
+338,Up to 30 Years old,male,single,no,Up to Rs.15000 ,positive,no,rare,no,rare,More than a week
+339,31-40 Years old,male,partnered,no,More than Rs. 20000,negative,several days,rare,More than a week,no,several days
+340,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,no,rare,several days
+341,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,no,More than a week,rare,rare
+342,Up to 30 Years old,female,single,school dropout,Rs. 15001-Rs. 20000,negative,no,several days,More than a week,More than a week,several days
+343,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,several days,no,several days
+344,41 and Above ,female,single,school dropout,Up to Rs.15000 ,negative,several days,rare,no,rare,several days
+345,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,More than a week,rare,several days,no,several days
+346,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,several days,rare,rare,no,no
+347,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,several days,rare,no,rare,rare
+348,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,positive,no,rare,rare,no,rare
+349,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,several days,no,rare,no,rare
+350,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,no,several days,several days,several days
+351,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,rare,no,rare
+352,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,several days,no,rare,no,rare
+353,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,no,rare,several days,no
+354,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,no,rare,no
+355,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,no,rare,rare
+356,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,no,rare,several days,rare
+357,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,several days
+358,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,several days,rare,no
+359,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,rare,no,no
+360,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,positive,no,no,no,no,no
+361,Up to 30 Years old,male,partnered,school dropout,More than Rs. 20000,negative,rare,no,several days,rare,rare
+362,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,several days,no,no,rare,several days
+363,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,positive,no,rare,rare,several days,no
+364,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,rare,rare
+365,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,rare
+366,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,several days,no,rare,no,rare
+367,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,rare,several days,rare
+368,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,rare,rare,rare,rare
+369,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,no,rare,no
+370,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,rare,several days,rare
+371,Up to 30 Years old,female,single,school completed,Rs. 15001-Rs. 20000,negative,rare,rare,rare,several days,no
+372,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,rare,several days,several days
+373,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,several days
+374,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,rare,several days,several days
+375,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,several days,no,several days,several days
+376,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,rare,several days,no,rare
+377,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,several days,no,several days
+378,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,several days,rare,rare,no,rare
+379,31-40 Years old,male,single,no,Up to Rs.15000 ,positive,rare,rare,several days,rare,rare
+380,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,no,rare,More than a week,rare,More than a week
+381,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,positive,rare,More than a week,no,More than a week,rare
+382,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,rare,rare,several days
+383,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,More than a week,no,More than a week,no
+384,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,negative,several days,no,rare,rare,rare
+385,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,rare,rare,More than a week,no,More than a week
+386,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,several days,rare,several days
+387,31-40 Years old,male,single,no,Up to Rs.15000 ,negative,rare,no,rare,no,several days
+388,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,several days,several days,several days,several days,no
+389,31-40 Years old,male,single,no,Up to Rs.15000 ,negative,rare,rare,no,several days,rare
+390,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,rare,no,no,no,several days
+391,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,no,no
+392,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,several days,rare
+393,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,several days,rare,several days,several days
+394,31-40 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,rare,several days,rare,More than a week,rare
+395,31-40 Years old,male,single,no,Up to Rs.15000 ,negative,rare,no,no,no,several days
+396,31-40 Years old,female,single,school dropout,Up to Rs.15000 ,negative,no,rare,More than a week,rare,several days
+397,31-40 Years old,male,single,no,Up to Rs.15000 ,negative,rare,several days,rare,several days,no
+398,31-40 Years old,male,single,no,Up to Rs.15000 ,negative,rare,several days,several days,several days,no
+399,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,several days,no,rare
+400,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,rare,several days,several days,several days,no
+401,31-40 Years old,male,single,no,Up to Rs.15000 ,negative,rare,rare,More than a week,no,several days
+402,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,several days,several days,several days,several days,no
+403,41 and Above ,female,single,no,Up to Rs.15000 ,positive,rare,rare,no,several days,no
+404,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,several days,More than a week,rare,several days
+405,41 and Above ,female,single,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,several days,several days
+406,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,several days,More than a week
+407,41 and Above ,male,single,school dropout,Up to Rs.15000 ,negative,no,no,rare,no,rare
+408,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,More than a week,no,rare
+409,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,several days,no,rare
+410,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,several days,More than a week,rare,no
+411,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,no,no,no
+412,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,More than a week,several days,several days,several days
+413,41 and Above ,female,single,school dropout,Up to Rs.15000 ,negative,rare,More than a week,rare,no,several days
+414,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,rare,rare,More than a week
+415,41 and Above ,male,single,school dropout,Up to Rs.15000 ,positive,several days,no,rare,rare,no
+416,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,no,no,rare
+417,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,More than a week,rare,rare
+418,41 and Above ,male,single,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,More than a week,no,rare
+419,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,several days,several days,several days,rare
+420,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,More than a week,rare,no,no
+421,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,rare,several days,rare,More than a week,rare
+422,Up to 30 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,More than a week,no
+423,41 and Above ,female,single,no,Up to Rs.15000 ,negative,More than a week,no,several days,no,More than a week
+424,41 and Above ,male,single,no,Up to Rs.15000 ,negative,rare,rare,several days,several days,several days
+425,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,More than a week,no,no,no,rare
+426,31-40 Years old,female,single,school dropout,Up to Rs.15000 ,negative,rare,no,several days,rare,rare
+427,41 and Above ,female,single,school dropout,Up to Rs.15000 ,negative,no,rare,rare,More than a week,rare
+428,31-40 Years old,female,single,school dropout,Up to Rs.15000 ,negative,rare,no,several days,rare,several days
+429,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,no,no,no,rare
+430,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,no,rare,rare,More than a week,rare
+431,Up to 30 Years old,male,single,no,Up to Rs.15000 ,positive,no,More than a week,More than a week,More than a week,no
+432,41 and Above ,male,single,no,Rs. 15001-Rs. 20000,positive,rare,rare,several days,several days,several days
+433,41 and Above ,female,single,school dropout,Up to Rs.15000 ,positive,no,rare,rare,several days,rare
+434,Up to 30 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,More than a week,rare,no,rare,no
+435,41 and Above ,female,single,no,Up to Rs.15000 ,positive,several days,no,rare,More than a week,several days
+436,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,rare,More than a week,rare,More than a week,no
+437,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,several days,rare,rare,several days,rare
+438,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,More than a week,rare,rare,rare,several days
+439,Up to 30 Years old,male,partnered,no,More than Rs. 20000,negative,several days,rare,rare,several days,no
+440,41 and Above ,female,single,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,rare,rare,rare,rare
+441,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,More than a week,rare,More than a week,rare
+442,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,rare,no,rare,rare
+443,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,several days,several days,no
+444,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,rare,several days,several days,rare
+445,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,positive,several days,no,no,rare,rare
+446,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,More than a week,no,several days,rare
+447,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,rare,several days,rare,rare
+448,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,several days,no,rare
+449,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,rare,several days,rare,no
+450,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,More than a week,no,several days,rare
+451,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,More than a week,More than a week,rare
+452,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,no,rare,no
+453,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,rare,several days,rare
+454,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,no,several days,rare,no
+455,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,rare,rare,no,rare
+456,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,rare,several days,no
+457,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,rare,More than a week,no
+458,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,several days,no,rare
+459,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,several days,no,rare
+460,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,no,no,no,no
+461,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,More than a week,rare,several days,rare
+462,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,rare,several days,rare
+463,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,several days,rare,rare,several days,rare
+464,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,More than a week,no,no,no,rare
+465,41 and Above ,male,single,no,Up to Rs.15000 ,negative,rare,no,More than a week,More than a week,rare
+466,Up to 30 Years old,female,single,no,Rs. 15001-Rs. 20000,positive,More than a week,rare,rare,More than a week,no
+467,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,several days,rare,rare
+468,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,rare,several days
+469,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,More than a week,More than a week,More than a week,rare
+470,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,several days,several days,rare,rare,rare
+471,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,several days,rare,several days
+472,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,rare,no
+473,41 and Above ,female,single,school dropout,Up to Rs.15000 ,negative,no,no,More than a week,More than a week,no
+474,41 and Above ,male,single,school dropout,Up to Rs.15000 ,negative,no,no,More than a week,More than a week,no
+475,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,rare,rare,rare,More than a week,rare
+476,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,negative,More than a week,no,More than a week,More than a week,no
+477,41 and Above ,female,single,school dropout,Up to Rs.15000 ,negative,More than a week,no,no,several days,rare
+478,31-40 Years old,female,single,school dropout,Up to Rs.15000 ,negative,rare,rare,rare,More than a week,rare
+479,Up to 30 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,More than a week,no,More than a week,More than a week,rare
+480,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,no,More than a week,More than a week,several days
+481,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,several days,several days,rare,rare,rare
+482,41 and Above ,female,single,school dropout,Up to Rs.15000 ,positive,More than a week,no,More than a week,More than a week,no
+483,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,no,no,several days,several days
+484,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,rare,rare,More than a week,several days
+485,41 and Above ,male,single,school dropout,Up to Rs.15000 ,negative,rare,More than a week,rare,several days,no
+486,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,positive,More than a week,rare,several days,rare,several days
+487,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,rare,no,rare,several days
+488,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,rare,no,rare,several days
+489,Up to 30 Years old,female,single,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,rare,several days,rare,several days
+490,41 and Above ,female,single,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,rare,several days
+491,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,More than a week,rare,rare,no,rare
+492,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,More than a week,several days,rare,rare,rare
+493,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,no,More than a week,More than a week,rare
+494,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,several days,rare,rare,no
+495,41 and Above ,male,partnered,no,More than Rs. 20000,negative,rare,rare,rare,several days,no
+496,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,no,rare,several days,More than a week,rare
+497,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,More than a week,rare,rare
+498,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,several days,rare,rare,several days,rare
+499,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,More than a week,rare,rare
+500,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,several days,rare,no,rare
+501,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,no,rare
+502,Up to 30 Years old,male,partnered,no,More than Rs. 20000,negative,no,no,rare,no,rare
+503,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,rare,rare,no,rare
+504,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,no,no,no
+505,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,several days,no,no,no
+506,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,More than a week,More than a week,rare,no,rare
+507,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,rare,rare,no,rare
+508,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,More than a week,rare,no,rare
+509,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,several days,no,no
+510,Up to 30 Years old,female,partnered,no,More than Rs. 20000,negative,rare,several days,several days,several days,no
+511,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,several days,several days,no,no
+512,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,More than a week,several days,no,no
+513,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,rare,several days,no,no
+514,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,several days,no,no,no
+515,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,More than a week,several days,no,no
+516,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,several days,several days,several days,no
+517,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,More than a week,no,no,no
+518,Up to 30 Years old,female,single,school dropout,Rs. 15001-Rs. 20000,negative,several days,More than a week,rare,no,no
+519,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,several days,several days,no,no
+520,41 and Above ,male,partnered,no,More than Rs. 20000,negative,More than a week,several days,rare,no,no
+521,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,several days,several days,rare,no,no
+522,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,More than a week,rare,several days,no
+523,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,several days,no,rare,rare
+524,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,More than a week,rare,rare,no
+525,41 and Above ,male,single,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,no,rare,no
+526,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,rare,rare
+527,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,several days,More than a week,no,rare,no
+528,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,no,several days,no,no
+529,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,rare,rare,rare,rare,no
+530,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,several days,rare,rare,rare,no
+531,41 and Above ,female,single,no,Rs. 15001-Rs. 20000,positive,rare,several days,several days,no,no
+532,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,positive,rare,rare,rare,rare,no
+533,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,positive,no,rare,no,rare,no
+534,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,rare,rare,rare,no
+535,Up to 30 Years old,female,single,no,Up to Rs.15000 ,positive,several days,rare,rare,rare,no
+536,Up to 30 Years old,female,single,school completed,Up to Rs.15000 ,negative,rare,More than a week,rare,no,no
+537,41 and Above ,male,single,school dropout,Rs. 15001-Rs. 20000,negative,no,no,rare,several days,no
+538,Up to 30 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,rare,rare,no
+539,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,More than a week,no,rare,no
+540,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,More than a week,no,rare,rare,rare
+541,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,rare,rare,rare,rare,rare
+542,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,More than a week,no,rare,no
+543,41 and Above ,female,single,no,Up to Rs.15000 ,negative,no,no,no,rare,several days
+544,41 and Above ,female,single,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,rare,no
+545,Up to 30 Years old,male,single,no,Up to Rs.15000 ,positive,several days,More than a week,no,rare,several days
+546,31-40 Years old,female,single,school dropout,Up to Rs.15000 ,negative,More than a week,several days,rare,rare,no
+547,41 and Above ,male,single,no,Up to Rs.15000 ,negative,no,several days,no,rare,no
+548,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,negative,several days,More than a week,rare,rare,no
+549,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,several days,several days,rare,rare,no
+550,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,no,rare,several days
+551,Up to 30 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,negative,no,no,rare,no,rare
+552,41 and Above ,female,single,no,Up to Rs.15000 ,negative,rare,no,rare,no,rare
+553,41 and Above ,female,single,school dropout,Up to Rs.15000 ,negative,several days,More than a week,rare,no,rare
+554,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,positive,rare,several days,rare,rare,no
+555,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,no
+556,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,no,no,rare,several days
+557,Up to 30 Years old,female,single,school dropout,Rs. 15001-Rs. 20000,positive,More than a week,More than a week,rare,several days,rare
+558,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,several days,rare,no,rare
+559,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,no,several days,rare,several days,rare
+560,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,no,rare,several days
+561,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,several days,several days,rare,rare
+562,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,More than a week,several days,rare,rare,no
+563,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,several days,rare
+564,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,several days,rare,rare
+565,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,rare,no,several days,rare
+566,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,no
+567,Up to 30 Years old,male,partnered,school completed,More than Rs. 20000,negative,several days,several days,several days,no,no
+568,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,rare,no
+569,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,several days
+570,41 and Above ,female,single,no,Up to Rs.15000 ,negative,More than a week,More than a week,rare,rare,several days
+571,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,several days,several days,no,no
+572,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,rare,no
+573,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,rare,rare,More than a week
+574,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,rare,rare,rare,several days
+575,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,More than a week,several days,no,no
+576,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,several days,More than a week,several days,no
+577,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,no,several days,no
+578,Up to 30 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,rare,rare,rare,rare
+579,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,no,several days,no
+580,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,rare,no,no
+581,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,rare,rare,no
+582,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,More than a week,rare,rare,rare
+583,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,no,rare,rare,rare
+584,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,rare,no,several days,rare
+585,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,More than a week,several days,no
+586,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,More than a week,several days,no,no
+587,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,rare,several days,no,no
+588,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,no,no,no,rare
+589,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,More than a week,no,no,rare
+590,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,rare,no
+591,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,rare,no,no
+592,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,rare,More than a week
+593,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,More than a week,More than a week,several days,no
+594,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,several days,several days,several days,no
+595,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,More than a week,several days,no,no
+596,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,no,no,several days,several days
+597,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,rare,no
+598,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,rare
+599,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,rare,several days
+600,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,rare
+601,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,rare,several days
+602,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,rare,several days
+603,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,no,rare,several days,several days,rare
+604,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,positive,several days,no,several days,several days,rare
+605,Up to 30 Years old,male,single,no,Up to Rs.15000 ,positive,rare,More than a week,rare,rare,no
+606,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,rare
+607,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,several days,More than a week,rare,several days,several days
+608,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,no,several days,rare
+609,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,several days,rare,rare
+610,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,More than a week,no,rare,several days,several days
+611,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,no,rare,no
+612,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,no,no,several days,several days,rare
+613,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,no,several days,rare,no
+614,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,More than a week,no
+615,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,rare,rare,several days
+616,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,rare,no,rare,several days
+617,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,several days,no,several days,rare,no
+618,41 and Above ,male,single,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,several days
+619,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,rare,More than a week,More than a week,no
+620,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,rare,rare,no
+621,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,several days,several days,rare,rare,no
+622,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,no
+623,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,no
+624,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,several days,rare,no
+625,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,no,several days,no,rare
+626,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,several days,rare,rare
+627,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,no,several days,rare,rare
+628,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,no,no,several days,several days
+629,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,no,rare,rare,no
+630,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,no,no,no,rare
+631,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,several days,rare,rare,rare
+632,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,no,rare,several days,no
+633,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,several days,rare,rare,rare
+634,41 and Above ,female,single,no,Up to Rs.15000 ,negative,rare,several days,rare,several days,no
+635,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,no,rare,rare,rare
+636,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,rare,no
+637,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,several days,rare,several days,no,no
+638,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,no,rare,no,no
+639,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,several days,no,More than a week,no
+640,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,several days,no
+641,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,several days,rare,no,several days,no
+642,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,several days,several days,several days,several days,More than a week
+643,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,rare,rare,rare
+644,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,no,rare,rare,More than a week
+645,41 and Above ,male,single,no,Rs. 15001-Rs. 20000,negative,several days,rare,no,several days,no
+646,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,several days,rare,no,no,rare
+647,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,several days,rare,rare,rare
+648,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,rare,rare,rare
+649,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,rare
+650,Up to 30 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,rare,several days,rare,rare,rare
+651,41 and Above ,female,single,no,Up to Rs.15000 ,negative,rare,rare,rare,rare,rare
+652,Up to 30 Years old,female,single,school completed,Up to Rs.15000 ,negative,rare,no,rare,no,no
+653,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,rare,several days,no,More than a week,no
+654,Up to 30 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,no,no,several days,no,More than a week
+655,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,several days,rare,several days
+656,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,several days,no,several days,several days,More than a week
+657,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,More than a week,several days,no,no
+658,41 and Above ,male,partnered,no,More than Rs. 20000,negative,no,no,rare,rare,no
+659,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,several days,no,no
+660,31-40 Years old,male,single,no,Up to Rs.15000 ,positive,no,rare,several days,no,More than a week
+661,41 and Above ,female,single,no,Up to Rs.15000 ,positive,no,rare,More than a week,More than a week,no
+662,31-40 Years old,male,single,no,Rs. 15001-Rs. 20000,positive,no,no,rare,rare,rare
+663,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,More than a week
+664,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,several days,no,More than a week,no,rare
+665,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,several days,rare,More than a week,no,rare
+666,41 and Above ,female,single,no,Up to Rs.15000 ,negative,rare,rare,More than a week,More than a week,no
+667,41 and Above ,female,single,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,More than a week
+668,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,rare,no,rare,rare,no
+669,41 and Above ,male,single,no,Up to Rs.15000 ,negative,no,no,rare,rare,several days
+670,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,no,no,More than a week
+671,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,More than a week
+672,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,no,no,rare
+673,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,several days,no,no
+674,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,several days,rare,several days
+675,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,several days,no,More than a week,no
+676,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,More than a week,rare,More than a week,rare
+677,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,several days,rare,no
+678,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,More than a week,rare
+679,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,several days,no,More than a week,no
+680,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,several days,rare,no
+681,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,no,no,rare,More than a week
+682,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,several days,rare,several days
+683,Up to 30 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,rare,no,several days,rare,several days
+684,41 and Above ,female,single,no,Up to Rs.15000 ,positive,several days,rare,rare,rare,no
+685,Up to 30 Years old,male,single,no,Up to Rs.15000 ,positive,rare,rare,no,rare,no
+686,Up to 30 Years old,male,single,no,Up to Rs.15000 ,positive,several days,rare,rare,rare,no
+687,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,rare,several days,no
+688,41 and Above ,female,single,no,Rs. 15001-Rs. 20000,positive,rare,rare,rare,rare,no
+689,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,several days,rare,several days,no
+690,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,several days,rare,rare,rare,no
+691,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,no
+692,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,several days,rare,rare,rare,no
+693,41 and Above ,female,single,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,rare,rare,several days
+694,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,several days,rare,several days
+695,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,no,several days,no,several days
+696,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,no,rare,no
+697,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,no,rare,several days,no,rare
+698,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,rare,rare,More than a week,rare
+699,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,several days,several days,no,rare
+700,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,rare,no
+701,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,no,rare,several days,no
+702,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,several days,no,several days
+703,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,several days,several days,no
+704,41 and Above ,male,single,no,Up to Rs.15000 ,negative,rare,several days,More than a week,rare,rare
+705,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,no,More than a week,More than a week,no
+706,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,rare,several days,several days,several days,no
+707,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,rare,no
+708,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,More than a week,rare
+709,41 and Above ,female,partnered,school completed,More than Rs. 20000,negative,rare,rare,rare,More than a week,rare
+710,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,no,no,More than a week,no
+711,Up to 30 Years old,male,single,school completed,Rs. 15001-Rs. 20000,negative,rare,no,several days,several days,More than a week
+712,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,no,several days,no
+713,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,no,no,rare,several days,no
+714,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,no,no,More than a week,no
+715,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,rare,several days,no
+716,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,rare,no,More than a week,no,rare
+717,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,positive,rare,no,several days,several days,rare
+718,31-40 Years old,female,single,school dropout,Up to Rs.15000 ,positive,no,no,several days,several days,several days
+719,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,no,no,rare,More than a week
+720,41 and Above ,female,single,school completed,Rs. 15001-Rs. 20000,negative,rare,no,rare,no,no
+721,41 and Above ,male,partnered,school completed,Rs. 15001-Rs. 20000,positive,no,no,More than a week,rare,rare
+722,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,several days,several days,several days
+723,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,several days
+724,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,several days,several days,several days
+725,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,More than a week,no,rare
+726,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,More than a week,rare
+727,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,several days,no,several days,no,rare
+728,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,no,no,More than a week,rare,no
+729,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,several days,More than a week,rare
+730,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,several days,More than a week,rare
+731,Up to 30 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,positive,no,no,rare,no,no
+732,41 and Above ,male,single,school dropout,Up to Rs.15000 ,negative,no,no,several days,More than a week,rare
+733,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,several days,no,several days,no,rare
+734,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,More than a week,rare,no
+735,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,several days,several days,More than a week
+736,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,several days,rare,no
+737,41 and Above ,male,single,no,Up to Rs.15000 ,negative,no,no,rare,More than a week,no
+738,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,More than a week,no
+739,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,several days,no,several days,rare,no
+740,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,several days,several days
+741,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,no,rare,More than a week,More than a week,no
+742,41 and Above ,female,single,school dropout,Up to Rs.15000 ,negative,no,rare,rare,several days,several days
+743,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,no,rare,several days,no,no
+744,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,no,rare,several days,several days
+745,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,several days,several days,no
+746,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,rare,several days,several days,rare
+747,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,no,no,rare
+748,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,rare,no,several days,no
+749,Up to 30 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,positive,no,rare,no,no,rare
+750,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,no,rare,no
+751,41 and Above ,male,single,no,Rs. 15001-Rs. 20000,negative,no,no,several days,several days,rare
+752,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,no,several days,rare,no
+753,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,rare,rare,More than a week,More than a week,no
+754,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,rare,rare,several days
+755,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,rare,no,rare,several days
+756,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,several days,rare,no
+757,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,rare,rare,rare,several days
+758,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,More than a week,More than a week,no
+759,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,rare,rare,no
+760,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,several days,several days,rare,rare,no
+761,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,no
+762,41 and Above ,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,no
+763,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,positive,no,rare,several days,rare,no
+764,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,several days,no,rare
+765,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,several days,rare,rare
+766,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,no,several days,rare,rare
+767,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,several days,several days
+768,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,no,rare,rare,no
+769,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,More than a week,no,no,no,rare
+770,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,several days,rare,rare,rare
+771,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,no,rare,several days,no
+772,41 and Above ,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,several days,rare,rare,rare
+773,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,several days,rare,several days,no
+774,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,More than a week,no,rare,rare,rare
+775,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,no,no,rare,no
+776,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,rare,several days,no,no
+777,Up to 30 Years old,male,partnered,no,More than Rs. 20000,negative,rare,no,rare,no,no
+778,41 and Above ,male,single,school completed,Rs. 15001-Rs. 20000,negative,several days,several days,no,More than a week,no
+779,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,rare,no,several days,no
+780,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,several days,rare,no,several days,no
+781,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,positive,several days,several days,several days,several days,More than a week
+782,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,several days,rare,rare,rare,rare
+783,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,no,rare,rare,More than a week
+784,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,no,several days,no
+785,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,no,no,rare
+786,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,rare,rare,rare
+787,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,several days,rare,rare,rare
+788,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,rare
+789,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,rare,rare,rare
+790,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,rare
+791,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,rare,no,no
+792,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,several days,no,More than a week,no
+793,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,several days,no,More than a week
+794,41 and Above ,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,several days,no,several days,rare,several days
+795,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,several days,several days,More than a week
+796,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,More than a week,several days,no,no
+797,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,rare,no
+798,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,no,several days,no,no
+799,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,several days,no,More than a week
+800,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,More than a week,More than a week,no
+801,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,rare,rare
+802,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,More than a week
+803,Up to 30 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,several days,no,More than a week,no,rare
+804,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,negative,several days,rare,More than a week,no,rare
+805,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,More than a week,no
+806,Up to 30 Years old,male,partnered,no,More than Rs. 20000,negative,rare,rare,several days,rare,More than a week
+807,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,rare,rare,no
+808,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,rare,several days
+809,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,several days,no,no,no,More than a week
+810,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,More than a week
+811,41 and Above ,male,single,no,Up to Rs.15000 ,negative,several days,no,no,no,rare
+812,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,positive,several days,no,several days,no,no
+813,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,no,no,several days,rare,several days
+814,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,no,More than a week,no
+815,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,More than a week,rare,More than a week,rare
+816,31-40 Years old,male,single,school completed,Up to Rs.15000 ,negative,rare,no,several days,rare,no
+817,Up to 30 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,negative,no,no,rare,More than a week,rare
+818,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,no,More than a week,no
+819,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,several days,rare,no
+820,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,rare,More than a week
+821,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,several days,rare,several days
+822,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,no,several days,rare,several days
+823,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,several days,rare,rare,rare,no
+824,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,rare,no,rare,no
+825,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,several days,rare,rare,rare,no
+826,41 and Above ,female,single,no,Rs. 15001-Rs. 20000,negative,rare,no,rare,several days,no
+827,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,no
+828,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,no,no,no
+829,31-40 Years old,male,single,no,Up to Rs.15000 ,positive,no,rare,rare,rare,rare
+830,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,rare,no,no
+831,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,rare,rare,More than a week,rare
+832,31-40 Years old,female,single,no,Up to Rs.15000 ,positive,no,no,rare,rare,no
+833,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+834,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,no
+835,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+836,31-40 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,negative,no,no,rare,rare,no
+837,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,More than a week,rare,More than a week,rare
+838,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,rare,several days,rare,rare
+839,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,rare
+840,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,no
+841,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,rare
+842,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,no,no,no
+843,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+844,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,no,no,no
+845,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,several days,no,More than a week,no
+846,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,no
+847,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,no,no,no
+848,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,no
+849,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,several days,several days,rare
+850,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+851,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+852,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+853,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,several days,no,More than a week,no
+854,Up to 30 Years old,female,single,no,Up to Rs.15000 ,positive,several days,rare,More than a week,several days,rare
+855,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,rare,rare,several days,rare,rare
+856,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,rare,several days,rare
+857,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,no,no,no
+858,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,several days
+859,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,More than a week,More than a week,More than a week,several days
+860,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,rare,no
+861,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,several days
+862,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,several days
+863,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,rare,no
+864,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,no,rare,no
+865,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,no
+866,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,no,rare,no
+867,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,More than a week,More than a week,More than a week,several days
+868,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,More than a week,More than a week,several days,rare
+869,41 and Above ,female,single,no,Up to Rs.15000 ,negative,no,rare,several days,rare,several days
+870,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,several days,rare,several days
+871,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,rare,rare,rare,no
+872,31-40 Years old,female,single,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,More than a week,More than a week,rare
+873,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,several days,More than a week,More than a week,rare
+874,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,rare,no,several days
+875,Up to 30 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,no,no,rare,several days,rare
+876,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,no,no,no,no
+877,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,rare
+878,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,rare,rare,no
+879,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,no,several days
+880,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,rare,rare,no
+881,41 and Above ,male,partnered,school completed,Rs. 15001-Rs. 20000,positive,no,no,no,no,no
+882,Up to 30 Years old,female,single,no,Up to Rs.15000 ,positive,rare,rare,rare,several days,rare
+883,Up to 30 Years old,female,single,no,Rs. 15001-Rs. 20000,positive,no,no,rare,no,several days
+884,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,no,several days
+885,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,rare,rare,several days,rare
+886,41 and Above ,male,single,no,Up to Rs.15000 ,negative,no,no,no,no,several days
+887,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,rare,no,several days
+888,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,no,no,no,rare,no
+889,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,several days,no,More than a week
+890,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,several days,several days,rare,rare,several days
+891,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,several days,rare,rare,several days
+892,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,More than a week,More than a week,rare,no
+893,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,no,no,rare,no,several days
+894,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+895,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,rare,rare,no,rare
+896,41 and Above ,male,single,school completed,Up to Rs.15000 ,negative,no,no,no,rare,no
+897,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,rare,no
+898,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,several days,More than a week
+899,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,rare,rare,no,several days
+900,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,rare,no,several days,More than a week
+901,Up to 30 Years old,male,single,no,Up to Rs.15000 ,positive,rare,no,rare,rare,no
+902,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,no,several days
+903,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,positive,rare,no,rare,rare,no
+904,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,rare,several days,rare,no
+905,41 and Above ,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,no,several days,no,rare
+906,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,rare,no
+907,Up to 30 Years old,male,partnered,school dropout,More than Rs. 20000,negative,rare,no,no,rare,no
+908,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,no,no,rare,no
+909,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,More than a week,rare,no
+910,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,rare,no,More than a week,rare,no
+911,41 and Above ,male,single,no,Up to Rs.15000 ,negative,no,no,no,no,no
+912,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,no,rare,rare,no
+913,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,positive,no,no,no,no,no
+914,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,no,no,rare,no
+915,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,More than a week,several days,several days,rare,several days
+916,41 and Above ,male,single,no,Up to Rs.15000 ,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+917,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,rare,rare,rare,rare,several days
+918,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,several days,no,More than a week
+919,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,rare,no,rare
+920,Up to 30 Years old,female,single,school completed,Rs. 15001-Rs. 20000,negative,no,several days,rare,rare,rare
+921,41 and Above ,female,single,no,Up to Rs.15000 ,negative,no,rare,rare,no,no
+922,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,several days,rare,More than a week,rare
+923,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,positive,no,several days,rare,no,rare
+924,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,several days,no,no,no,rare
+925,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,positive,several days,rare,no,More than a week,no
+926,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,rare,several days,rare,rare
+927,41 and Above ,male,single,no,Up to Rs.15000 ,positive,several days,no,no,no,rare
+928,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,More than a week,several days,several days,rare,no
+929,Up to 30 Years old,male,partnered,no,More than Rs. 20000,negative,rare,no,several days,no,rare
+930,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,no,rare
+931,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,More than a week,several days,several days,rare,no
+932,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,rare,rare,no,More than a week,no
+933,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,no,More than a week,no
+934,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,More than a week,no,several days
+935,31-40 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+936,Up to 30 Years old,female,single,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,several days
+937,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,several days,rare,rare,rare
+938,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,More than a week,no,several days
+939,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,several days
+940,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,several days,no,no,More than a week
+941,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,several days,rare
+942,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,several days,rare
+943,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,several days,no,several days
+944,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,rare,rare,rare,no
+945,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,no,rare,More than a week,no,several days
+946,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,More than a week,rare,rare,More than a week
+947,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,no,no,rare
+948,Up to 30 Years old,male,partnered,no,More than Rs. 20000,negative,no,no,no,no,no
+949,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,several days
+950,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,no
+951,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,rare,rare
+952,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,no,several days
+953,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,More than a week,no,rare,rare
+954,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,no,several days
+955,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,More than a week,no,rare,rare
+956,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,positive,several days,More than a week,several days,several days,More than a week
+957,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,rare,no,several days,no
+958,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,no,rare,rare,rare,rare
+959,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,More than a week
+960,41 and Above ,female,single,school dropout,Up to Rs.15000 ,positive,rare,several days,rare,several days,More than a week
+961,41 and Above ,male,single,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,rare,rare,rare
+962,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,rare,several days,rare,rare,rare
+963,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,rare
+964,31-40 Years old,male,partnered,no,More than Rs. 20000,negative,rare,rare,several days,several days,rare
+965,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,More than a week,several days,several days,rare
+966,41 and Above ,male,partnered,school dropout,More than Rs. 20000,negative,rare,several days,rare,rare,rare
+967,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,rare,rare
+968,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,rare
+969,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,rare
+970,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,no,no,no
+971,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,rare
+972,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,several days,several days,More than a week
+973,31-40 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,More than a week
+974,41 and Above ,female,single,school dropout,Up to Rs.15000 ,negative,rare,several days,rare,several days,More than a week
+975,41 and Above ,male,single,school completed,Up to Rs.15000 ,negative,several days,no,several days,More than a week,rare
+976,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,no,no,no,no
+977,31-40 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,no,no,no
+978,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,no,no,no,several days
+979,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,several days,no,More than a week,several days
+980,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,rare,no,several days
+981,31-40 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,positive,no,no,no,no,no
+982,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,several days,rare,More than a week,More than a week
+983,31-40 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,several days,rare,several days,no
+984,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,rare,More than a week,rare,rare
+985,31-40 Years old,female,single,school dropout,Up to Rs.15000 ,negative,no,rare,several days,rare,rare
+986,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,several days,rare,rare
+987,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,More than a week,several days,rare,More than a week,More than a week
+988,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,rare,no
+989,41 and Above ,female,single,no,Up to Rs.15000 ,negative,More than a week,several days,no,More than a week,several days
+990,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,no
+991,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,rare,rare
+992,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,More than a week,several days,several days,rare
+993,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,several days,no,rare
+994,31-40 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+995,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,positive,rare,rare,rare,More than a week,rare
+996,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,several days,More than a week
+997,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,rare,rare
+998,41 and Above ,male,single,no,Up to Rs.15000 ,negative,rare,More than a week,rare,rare,rare
+999,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,rare,rare
+1000,31-40 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,several days,More than a week
+1001,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,More than a week,rare,rare,rare
+1002,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,rare,rare,several days,rare
+1003,31-40 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,rare,rare,several days,rare
+1004,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,rare
+1005,31-40 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+1006,41 and Above ,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,several days,no,no,no,rare
+1007,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,More than a week,several days,More than a week,several days,several days
+1008,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,rare,several days,several days
+1009,31-40 Years old,male,partnered,no,More than Rs. 20000,negative,More than a week,rare,More than a week,rare,rare
+1010,Up to 30 Years old,male,single,school completed,Rs. 15001-Rs. 20000,negative,no,no,rare,several days,several days
+1011,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,rare,More than a week,rare,rare
+1012,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,several days,More than a week,several days,several days
+1013,41 and Above ,male,single,school dropout,Up to Rs.15000 ,positive,no,no,no,no,no
+1014,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,rare,rare,rare,no
+1015,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,rare,rare,several days,rare
+1016,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,More than a week,More than a week,rare
+1017,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,rare,no
+1018,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,More than a week,rare,no,several days
+1019,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,several days,More than a week,rare
+1020,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,More than a week,rare,no,several days
+1021,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,rare,no
+1022,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,rare,rare
+1023,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,More than a week,More than a week,rare
+1024,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,More than a week,More than a week
+1025,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,More than a week,More than a week,More than a week,More than a week
+1026,41 and Above ,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,More than a week,rare,rare,rare
+1027,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,More than a week,More than a week
+1028,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,no,no,rare
+1029,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,several days,More than a week,rare
+1030,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,several days,More than a week,several days,More than a week,rare
+1031,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+1032,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,several days,no
+1033,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,several days,rare,More than a week,rare
+1034,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,More than a week,several days
+1035,Up to 30 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,several days,More than a week
+1036,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,no,no,rare,rare
+1037,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+1038,Up to 30 Years old,male,partnered,no,More than Rs. 20000,negative,no,rare,no,rare,no
+1039,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,More than a week,More than a week,More than a week,More than a week
+1040,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,several days,rare
+1041,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,several days,rare,several days,rare,rare
+1042,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,several days,no,several days
+1043,41 and Above ,male,single,no,Up to Rs.15000 ,negative,several days,More than a week,More than a week,More than a week,More than a week
+1044,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,More than a week,More than a week,no,no
+1045,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,no,no
+1046,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,More than a week,several days,several days,several days
+1047,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,More than a week,More than a week
+1048,31-40 Years old,male,single,school completed,Up to Rs.15000 ,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+1049,Up to 30 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,rare,rare,several days
+1050,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,several days,More than a week
+1051,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,several days,More than a week
+1052,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,rare,several days,rare,rare
+1053,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,several days,More than a week
+1054,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,negative,More than a week,More than a week,rare,More than a week,More than a week
+1055,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,no,rare,rare,several days
+1056,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,no,no,several days,no
+1057,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,several days,More than a week,More than a week,More than a week,several days
+1058,41 and Above ,female,single,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,no,rare
+1059,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,no,rare
+1060,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,several days,More than a week,More than a week,More than a week,several days
+1061,31-40 Years old,male,single,no,Up to Rs.15000 ,positive,More than a week,More than a week,several days,More than a week,several days
+1062,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,More than a week,rare,rare,rare
+1063,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,More than a week,More than a week,several days,More than a week,several days
+1064,31-40 Years old,female,single,no,Up to Rs.15000 ,positive,several days,rare,rare,rare,several days
+1065,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,several days,More than a week,several days
+1066,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,several days,several days,several days,several days
+1067,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1068,31-40 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,no,rare,rare
+1069,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,several days,rare,More than a week,rare
+1070,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,no,no,no,rare
+1071,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,no,no
+1072,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,rare,no,no
+1073,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,no,several days
+1074,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,no,rare,More than a week
+1075,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,rare,several days
+1076,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,no,More than a week
+1077,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,rare,no,rare
+1078,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,More than a week
+1079,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,several days
+1080,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,no,rare
+1081,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,rare
+1082,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,no,no,no,no,several days
+1083,31-40 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,no,no,rare,no,rare
+1084,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,no,no,rare
+1085,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,no,no,no,no,More than a week
+1086,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,no,several days
+1087,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,More than a week
+1088,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,no,no,More than a week
+1089,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,no,no,rare,no,More than a week
+1090,31-40 Years old,male,single,no,Up to Rs.15000 ,positive,no,no,no,no,More than a week
+1091,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,several days,More than a week
+1092,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,positive,no,no,no,no,More than a week
+1093,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,no,rare,rare,rare,More than a week
+1094,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,More than a week,no,no,no,More than a week
+1095,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,no,More than a week
+1096,Up to 30 Years old,male,partnered,school dropout,More than Rs. 20000,negative,no,rare,rare,rare,several days
+1097,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,no,no,no,rare
+1098,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,rare,no,no
+1099,31-40 Years old,female,single,school dropout,Up to Rs.15000 ,negative,no,rare,no,rare,rare
+1100,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,rare,no,rare,several days
+1101,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,no,no,rare,no,no
+1102,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,positive,More than a week,no,no,no,no
+1103,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,no,no,rare,no,several days
+1104,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,rare,no,rare,More than a week
+1105,41 and Above ,male,single,no,Up to Rs.15000 ,negative,no,no,rare,rare,no
+1106,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,rare,no,several days,no,no
+1107,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,several days,no,More than a week
+1108,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,rare,More than a week,More than a week,no
+1109,Up to 30 Years old,female,single,school completed,Rs. 15001-Rs. 20000,negative,no,no,rare,rare,rare
+1110,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,no,no,no,More than a week
+1111,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,More than a week,no,rare
+1112,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,positive,several days,rare,More than a week,no,rare
+1113,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,rare,More than a week,More than a week,no
+1114,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,positive,rare,rare,several days,rare,More than a week
+1115,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,no,rare,rare,no
+1116,31-40 Years old,male,single,no,Up to Rs.15000 ,positive,no,no,rare,rare,several days
+1117,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,several days,no,no,no,More than a week
+1118,41 and Above ,male,partnered,no,More than Rs. 20000,negative,rare,rare,rare,rare,More than a week
+1119,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,no,no,rare
+1120,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,several days,no,several days,no,no
+1121,31-40 Years old,female,single,school dropout,Up to Rs.15000 ,negative,no,no,several days,rare,several days
+1122,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,several days,no,More than a week,no
+1123,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,More than a week,rare,More than a week,rare
+1124,31-40 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,rare,no,several days,rare,no
+1125,Up to 30 Years old,female,single,school dropout,Rs. 15001-Rs. 20000,negative,no,no,rare,More than a week,rare
+1126,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,several days,no,More than a week,no
+1127,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1128,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,rare
+1129,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,rare,no,no
+1130,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,More than a week,rare
+1131,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,rare,no
+1132,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1133,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,rare,rare,rare,no
+1134,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,no,no,no,no,no
+1135,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,rare,rare,no
+1136,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,More than a week,rare,More than a week,rare
+1137,Up to 30 Years old,male,partnered,no,More than Rs. 20000,negative,rare,rare,several days,rare,rare
+1138,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,rare
+1139,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,no
+1140,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,rare
+1141,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1142,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1143,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,no,no,no
+1144,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,several days,no,More than a week,no
+1145,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,rare,several days,rare,no
+1146,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,rare,no,no,no
+1147,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,rare,several days,rare,no
+1148,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,several days,several days,rare
+1149,41 and Above ,female,single,school dropout,Up to Rs.15000 ,positive,no,no,no,no,no
+1150,41 and Above ,male,single,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1151,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,no,no,no,no,no
+1152,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,several days,no,More than a week,no
+1153,31-40 Years old,male,partnered,no,More than Rs. 20000,negative,several days,rare,More than a week,several days,rare
+1154,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,rare
+1155,41 and Above ,male,partnered,school dropout,More than Rs. 20000,negative,rare,no,rare,several days,rare
+1156,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1157,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,several days
+1158,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,More than a week,More than a week,More than a week,several days
+1159,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,rare,no,rare,no
+1160,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,several days
+1161,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,several days
+1162,31-40 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,rare,no
+1163,41 and Above ,female,single,school dropout,Up to Rs.15000 ,negative,no,rare,no,rare,no
+1164,41 and Above ,male,single,school completed,Up to Rs.15000 ,negative,no,rare,rare,rare,no
+1165,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,rare,no,rare,no
+1166,31-40 Years old,male,single,no,Up to Rs.15000 ,negative,no,More than a week,More than a week,More than a week,several days
+1167,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,several days,More than a week,More than a week,several days,rare
+1168,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,several days,rare,several days
+1169,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,rare,several days,rare,several days
+1170,31-40 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,positive,no,rare,rare,rare,no
+1171,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,several days,More than a week,More than a week,rare
+1172,31-40 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,several days,More than a week,More than a week,rare
+1173,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,rare,rare,no,several days
+1174,31-40 Years old,female,single,school dropout,Up to Rs.15000 ,negative,no,no,rare,several days,rare
+1175,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1176,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,rare,rare,rare,rare
+1177,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,rare,rare,no
+1178,41 and Above ,female,single,no,Up to Rs.15000 ,negative,rare,rare,rare,no,several days
+1179,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,rare,rare,no
+1180,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1181,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,rare,rare,several days,rare
+1182,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,no,several days
+1183,31-40 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,no,no,no,several days
+1184,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,positive,rare,rare,rare,several days,rare
+1185,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,several days
+1186,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,no,several days
+1187,41 and Above ,male,single,no,Up to Rs.15000 ,negative,no,no,no,rare,no
+1188,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,several days,no,More than a week
+1189,31-40 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,several days,several days,rare,rare,several days
+1190,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,several days,several days,rare,rare,several days
+1191,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,several days,More than a week,More than a week,rare,no
+1192,31-40 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,no,no,rare,no,several days
+1193,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1194,31-40 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,no,rare,rare,no,rare
+1195,41 and Above ,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,no,no,no,rare,no
+1196,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,no,no,no,rare,no
+1197,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,no,several days,More than a week
+1198,31-40 Years old,male,partnered,no,More than Rs. 20000,negative,no,rare,rare,no,several days
+1199,Up to 30 Years old,male,single,school completed,Rs. 15001-Rs. 20000,negative,rare,rare,no,several days,More than a week
+1200,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,no,rare,rare,no
+1201,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,rare,no,several days
+1202,41 and Above ,male,single,school dropout,Up to Rs.15000 ,positive,rare,no,rare,rare,no
+1203,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,rare,several days,rare,no
+1204,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,no,several days,no,rare
+1205,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,rare,no
+1206,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,rare,no
+1207,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,rare,no
+1208,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,More than a week,rare,no
+1209,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,More than a week,rare,no
+1210,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1211,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,rare,rare,no
+1212,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1213,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,rare,no
+1214,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,several days,several days,rare,several days
+1215,41 and Above ,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+1216,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,several days
+1217,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,several days,no,More than a week
+1218,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,no,rare
+1219,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,several days,rare,rare,rare
+1220,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,rare,no,no
+1221,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,several days,rare,More than a week,rare
+1222,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,several days,rare,no,rare
+1223,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,no,no,rare
+1224,Up to 30 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,several days,rare,no,More than a week,no
+1225,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,negative,rare,rare,several days,rare,rare
+1226,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,no,no,no,rare
+1227,Up to 30 Years old,male,partnered,no,More than Rs. 20000,negative,More than a week,several days,several days,rare,no
+1228,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,several days,no,rare
+1229,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,no,rare
+1230,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,More than a week,several days,several days,rare,no
+1231,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,no,More than a week,no
+1232,41 and Above ,male,single,no,Up to Rs.15000 ,negative,several days,rare,no,More than a week,no
+1233,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,rare,More than a week,no,several days
+1234,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1235,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,several days
+1236,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,no,several days,rare,rare,rare
+1237,31-40 Years old,male,single,school completed,Up to Rs.15000 ,negative,no,rare,More than a week,no,several days
+1238,Up to 30 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,several days
+1239,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,several days,no,no,More than a week
+1240,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,no,several days,rare
+1241,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,no,several days,rare
+1242,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,several days,no,several days
+1243,31-40 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,rare,rare,rare,no
+1244,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,rare,More than a week,no,several days
+1245,Up to 30 Years old,male,partnered,school completed,Rs. 15001-Rs. 20000,negative,several days,More than a week,rare,rare,More than a week
+1246,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,no,no,no,no,rare
+1247,41 and Above ,female,single,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1248,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,several days
+1249,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,rare,rare,rare,no
+1250,31-40 Years old,male,single,no,Up to Rs.15000 ,positive,rare,no,no,rare,rare
+1251,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,rare,More than a week,no,several days
+1252,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,More than a week,no,rare,rare
+1253,31-40 Years old,female,single,no,Up to Rs.15000 ,positive,rare,rare,More than a week,no,several days
+1254,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,More than a week,no,rare,rare
+1255,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,several days,More than a week,several days,several days,More than a week
+1256,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,no,several days,no
+1257,31-40 Years old,male,single,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,rare,rare,rare
+1258,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,More than a week
+1259,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,rare,several days,rare,several days,More than a week
+1260,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,rare,rare,rare
+1261,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,rare,rare,rare
+1262,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,rare,rare
+1263,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,rare,rare,several days,several days,rare
+1264,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,More than a week,several days,several days,rare
+1265,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,rare,rare,rare
+1266,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,no,no,rare,rare
+1267,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,rare
+1268,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,rare
+1269,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1270,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,rare
+1271,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,negative,several days,rare,several days,several days,More than a week
+1272,31-40 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,rare,several days,several days,More than a week
+1273,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,several days,rare,several days,More than a week
+1274,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,several days,no,several days,More than a week,rare
+1275,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1276,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1277,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,no,no,several days
+1278,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,More than a week,several days,no,More than a week,several days
+1279,31-40 Years old,male,single,no,Up to Rs.15000 ,positive,no,no,rare,no,several days
+1280,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1281,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,positive,More than a week,several days,rare,More than a week,More than a week
+1282,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,rare,several days,rare,several days,no
+1283,Up to 30 Years old,female,partnered,school completed,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,rare,rare
+1284,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,rare,several days,rare,rare
+1285,Up to 30 Years old,male,partnered,school dropout,More than Rs. 20000,negative,no,rare,several days,rare,rare
+1286,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,More than a week,several days,rare,More than a week,More than a week
+1287,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,rare,no
+1288,31-40 Years old,female,single,school dropout,Up to Rs.15000 ,negative,More than a week,several days,no,More than a week,several days
+1289,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,rare,rare,rare,no
+1290,Up to 30 Years old,male,single,no,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,rare,rare
+1291,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,positive,rare,More than a week,several days,several days,rare
+1292,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,More than a week,several days,no,rare
+1293,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+1294,41 and Above ,male,single,no,Up to Rs.15000 ,negative,rare,rare,rare,More than a week,rare
+1295,Up to 30 Years old,male,single,school completed,Up to Rs.15000 ,negative,More than a week,More than a week,More than a week,several days,More than a week
+1296,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,rare,rare
+1297,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,More than a week,rare,rare,rare
+1298,Up to 30 Years old,female,single,school completed,Rs. 15001-Rs. 20000,negative,rare,rare,More than a week,rare,rare
+1299,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,More than a week,More than a week,several days,More than a week
+1300,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,More than a week,rare,rare,rare
+1301,Up to 30 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,rare,rare,several days,rare
+1302,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,rare,rare,rare,several days,rare
+1303,Up to 30 Years old,female,single,school dropout,Up to Rs.15000 ,positive,rare,rare,rare,rare,rare
+1304,Up to 30 Years old,female,single,no,Up to Rs.15000 ,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+1305,31-40 Years old,male,single,no,Up to Rs.15000 ,positive,several days,no,no,no,rare
+1306,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,More than a week,several days,More than a week,several days,several days
+1307,41 and Above ,male,partnered,no,More than Rs. 20000,negative,no,no,rare,several days,several days
+1308,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,rare,More than a week,rare,rare
+1309,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,no,no,rare,several days,several days
+1310,31-40 Years old,female,single,school dropout,Up to Rs.15000 ,negative,More than a week,rare,More than a week,rare,rare
+1311,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,More than a week,several days,several days
+1312,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,no,no
+1313,31-40 Years old,female,single,no,Rs. 15001-Rs. 20000,negative,rare,rare,rare,rare,no
+1314,Up to 30 Years old,female,single,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,rare,several days,rare
+1315,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,positive,no,no,More than a week,More than a week,rare
+1316,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,rare,no
+1317,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,More than a week,rare,no,several days
+1318,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,positive,several days,rare,several days,More than a week,rare
+1319,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,More than a week,rare,no,several days
+1320,31-40 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,rare,no
+1321,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,no,no,rare,rare
+1322,Up to 30 Years old,male,single,school dropout,Up to Rs.15000 ,negative,no,no,More than a week,More than a week,rare
+1323,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,rare,no,no,More than a week,More than a week
+1324,31-40 Years old,female,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+1325,Up to 30 Years old,male,single,no,Up to Rs.15000 ,negative,rare,More than a week,rare,rare,rare
+1326,Up to 30 Years old,male,partnered,no,More than Rs. 20000,negative,rare,no,no,More than a week,More than a week
+1327,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,no,no,no,rare
+1328,Up to 30 Years old,male,partnered,no,Rs. 15001-Rs. 20000,negative,several days,rare,several days,More than a week,rare
+1329,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,More than a week,several days,More than a week,rare
+1330,31-40 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+1331,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,rare,no,no,several days,no
+1332,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,rare,several days,rare,More than a week,rare
+1333,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,no,no,rare,More than a week,several days
+1334,41 and Above ,female,partnered,school dropout,Rs. 15001-Rs. 20000,positive,More than a week,More than a week,More than a week,several days,More than a week
+1335,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,no,no,no,rare,rare
+1336,41 and Above ,male,partnered,school dropout,Rs. 15001-Rs. 20000,positive,More than a week,More than a week,More than a week,More than a week,More than a week
+1337,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,no,rare,no
+1338,41 and Above ,female,single,school dropout,Up to Rs.15000 ,positive,several days,More than a week,More than a week,More than a week,More than a week
+1339,41 and Above ,male,single,school dropout,Rs. 15001-Rs. 20000,negative,rare,rare,rare,several days,rare
+1340,31-40 Years old,female,single,no,Up to Rs.15000 ,negative,several days,rare,several days,rare,rare
+1341,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,no,rare,several days,no,several days
+1342,31-40 Years old,male,partnered,no,More than Rs. 20000,negative,several days,More than a week,More than a week,More than a week,More than a week
+1343,41 and Above ,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,no,no
+1344,41 and Above ,male,partnered,school dropout,More than Rs. 20000,negative,More than a week,More than a week,More than a week,no,no
+1345,Up to 30 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,several days,More than a week,several days,several days,several days
+1346,31-40 Years old,male,partnered,school dropout,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,More than a week,More than a week
+1347,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,More than a week,More than a week,More than a week,More than a week
+1348,41 and Above ,male,partnered,no,Rs. 15001-Rs. 20000,positive,rare,no,rare,rare,several days
+1349,Up to 30 Years old,female,partnered,no,Rs. 15001-Rs. 20000,negative,More than a week,several days,rare,several days,More than a week
+1350,31-40 Years old,male,single,no,Up to Rs.15000 ,positive,several days,no,no,no,rare
